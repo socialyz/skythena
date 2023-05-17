@@ -1,0 +1,21 @@
+.line-chart {
+    width: 80%;
+    margin: 50px auto;
+    box-sizing: border-box;
+}
+
+.chart-head,
+.chart-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+@media screen and (max-width: 768px) {
+    .line-chart {
+        width: 100%;
+        margin-top: 25px;
+        box-sizing: border-box;
+    }
+}

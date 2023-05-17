@@ -1,0 +1,19 @@
+.strategies {
+    margin-top: 25px;
+
+}
+
+.strategies>p {
+
+    font-size: 20px;
+    line-height: 2pc;
+    font-size: 20px;
+}
+
+@media screen and (max-width: 768px) {
+    .strategies>p {
+
+        text-align: justify;
+    }
+
+}

@@ -1,0 +1,43 @@
+.chart {
+    width: 70%;
+    box-sizing: border-box;
+}
+
+.legend {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 16px;
+}
+
+.strong-market {
+    border-top: 2px solid #002D62;
+    padding-top: 10px;
+}
+
+.average-market {
+    border-top: 2px dotted #0066b2;
+    padding-top: 10px;
+}
+
+.weak-market {
+    border-top: 2px dashed #6CB4EE;
+    padding-top: 10px;
+}
+
+.deposits {
+    border-top: 2px dotted #7CB9E8;
+    padding-top: 10px;
+}
+
+@media screen and (max-width: 768px) {
+    .chart {
+        width: 100%;
+        margin-top: 25px;
+        box-sizing: border-box;
+    }
+
+    .legend {
+        font-size: 10px;
+    }
+}

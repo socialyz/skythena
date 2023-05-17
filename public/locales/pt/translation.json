@@ -1,0 +1,79 @@
+{
+  "Language": {
+    "1": "Tomada de decisões financeiras inteligentes simplificadas"
+  },
+  "KeyTakeways": {
+    "Title": "Pontos-chave"
+  },
+  "Strategies": {
+    "Title": "Estratégias de Alocação de Portfólio",
+    "sectionTitle": {
+      "Income": "Renda",
+      "Balanced": "Equilibrado",
+      "Growth": "Crescimento"
+    },
+    "sectionText": {
+      "Income": "Um investidor orientado para a renda busca renda atual com risco mínimo ao principal,\né confortável com um crescimento modesto de longo prazo do principal e tem um horizonte de investimento de curto a médio prazo. Gerar renda atual é um objetivo principal.",
+      "Balanced": "Um investidor equilibrado busca reduzir a volatilidade potencial incluindo investimentos que gerem renda em sua carteira e aceitando um crescimento moderado do principal, está disposto a tolerar flutuações de preços de curto prazo e tem um horizonte de investimento de médio a longo prazo.",
+      "Growth": "Um investidor orientado para o crescimento busca maximizar o potencial de crescimento de longo prazo do principal, está disposto a tolerar flutuações potencialmente grandes de preços de curto prazo e tem um horizonte de investimento de longo prazo. Gerar renda atual não é um objetivo principal."
+    }
+  },
+  "circle-container": {
+    "Income": "Renda Fixa",
+    "Equity": "Ações",
+    "circle-container-right": {
+      "p1": "Retorno anual médio",
+      "p2": "Melhor ano (1982)",
+      "p3": "Pior ano (1969)",
+      "p4": "Ano com perda"
+    }
+  },
+  "box": {
+    "box-heading": "Tomada de Decisões Financeiras Inteligentes Simplificadas",
+    "box-text": "Receba a Newsletter Semanal do Forbes Advisor para conselhos financeiros, notícias e análises de produtos de uma fonte confiável.",
+    "input": {
+      "firstName": "Nome",
+      "lastName": "Sobrenome",
+      "email": "E-mail"
+    },
+    "subscribe": "Inscrever-se"
+  },
+  "potentialEarnings": {
+    "title": "Potencial de Ganho",
+    "newDeposit": "Novo Depósito",
+    "frequency": "Frequência",
+    "apply": "Aplicar",
+    "reset": "Reiniciar",
+    "important": "IMPORTANTE: Isso mostra o crescimento do seu dinheiro em um período de 30 anos (YoY). Também mostra por padrão o valor para o pagamento quinzenal e 20$."
+  },
+  "Card": {
+    "creditCardText": "Melhores Cartões de Crédito",
+    "personalLoanText": "Melhores Empréstimos Pessoais",
+    "businessLoanText": "Melhores Empréstimos Empresariais"
+  },
+  "brokers": {
+    "heading": "Corretoras",
+    "text": "Produto de Investimento em Destaque da",
+    "partner": "Parceiro",
+    "fees": "Taxas",
+    "minimum": "Mínimo",
+    "highlight": "Destaque",
+    "next": "Próximo"
+  },
+  "lineChart": {
+    "title": "Risco explicado",
+    "chartHead": {
+      "lessRisk": "Menos risco",
+      "moreRisk": "Mais risco"
+    },
+    "fixedIncome": "100% Renda Fixa",
+    "equity": "100% Ações"
+  },
+
+  "market": {
+    "strong": "Mercado Forte",
+    "average": "Mercado Médio",
+    "weak": "Mercado Fraco"
+  },
+  "deposits": "Depósitos"
+}

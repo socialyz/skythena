@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'DM Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  border-color: #fcfcfc;
+}
+
+:root {
+  --primary-color: #ffffff;
+  --secondary-color: #181716;
+}
+
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}

@@ -1,0 +1,79 @@
+{
+  "Language": {
+    "1": "Akıllı Finansal Kararlar Kolaylaştırıldı"
+  },
+  "KeyTakeways": {
+    "Title": "Anahtar Bilgiler"
+  },
+  "Strategies": {
+    "Title": "Portföy Tahsis Stratejileri",
+    "sectionTitle": {
+      "Income": "Gelir",
+      "Balanced": "Dengeli",
+      "Growth": "Büyüme"
+    },
+    "sectionText": {
+      "Income": "Bir gelir odaklı yatırımcı, ana parayı en az riskle korurken, yalnızca sınırlı\nuzun vadeli ana paranın büyümesi ile rahat olan ve kısa-orta vadeli bir yatırım süresine\nsahip bir kişi, mevcut gelir oluşturma amacını hedeflemektedir.",
+      "Balanced": "Dengeli bir yatırımcı, portföyünde gelir sağlayan yatırımları dahil ederek potansiyel\nvolatiliteyi azaltmayı hedefler ve ana paranın orta derecede büyümesini kabul eder, kısa\nvadeli fiyat dalgalanmalarına toleranslıdır ve orta-uzun vadeli bir yatırım süresine sahiptir.",
+      "Growth": "Bir büyüme odaklı yatırımcı, ana paranın uzun vadeli büyüme potansiyelini maksimize etmeyi\nehliyetlilikle kabul eder, potansiyel olarak büyük kısa vadeli fiyat dalgalanmalarına toleranslıdır ve uzun vadeli bir yatırım süresine sahiptir. Mevcut gelir oluşturma birincil hedef değildir."
+    }
+  },
+  "circle-container": {
+    "Income": "Sabit Gelir",
+    "Equity": "Özkaynak",
+    "circle-container-right": {
+      "p1": "Ortalama yıllık getiri",
+      "p2": "En iyi yıl (1982)",
+      "p3": "En kötü yıl (1969)",
+      "p4": "Zarar yılı"
+    }
+  },
+  "box": {
+    "box-heading": "Akıllı Finansal Kararlar Basit Hale Getirildi",
+    "box-text": "Forbes Advisor Haftalık Bültenini güvendiğiniz bir isimden para tavsiyeleri, haberler ve ürün incelemeleri için alın.",
+    "input": {
+      "firstName": "Ad",
+      "lastName": "Soyad",
+      "email": "E-posta"
+    },
+    "subscribe": "Abone Ol"
+  },
+  "potentialEarnings": {
+    "title": "Potansiyel Kazanç",
+    "newDeposit": "Yeni Yatırım",
+    "frequency": "Sıklık",
+    "apply": "Uygula",
+    "reset": "Sıfırla",
+    "important": "ÖNEMLİ: Bu, paranızın 30 yıllık bir sürede büyümesini gösterir (YoY). Varsayılan olarak iki haftalık ve 20$ değerlerini gösterir."
+  },
+  "Card": {
+    "creditCardText": "En İyi Kredi Kartları",
+    "personalLoanText": "En İyi Kişisel Krediler",
+    "businessLoanText": "En İyi İş Kredileri"
+  },
+  "lineChart": {
+    "title": "Risk Açıklaması",
+    "chartHead": {
+      "lessRisk": "Daha Az Risk",
+      "moreRisk": "Daha Fazla Risk"
+    },
+    "fixedIncome": "100% Sabit Gelir",
+    "equity": "100% Özkaynak"
+  },
+  "brokers": {
+    "heading": "Acenteler",
+    "text": "Öne Çıkan Yatırım Ürünü",
+    "partner": "Ortak",
+    "fees": "Ücretler",
+    "minimum": "Minimum",
+    "highlight": "Vurgu",
+    "next": "Sonraki"
+  },
+
+  "market": {
+    "strong": "Güçlü Piyasa",
+    "average": "Ortalama Piyasa",
+    "weak": "Zayıf Piyasa"
+  },
+  "deposits": "Yatırımlar"
+}

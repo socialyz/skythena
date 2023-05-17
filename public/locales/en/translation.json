@@ -1,0 +1,80 @@
+{
+  "Language": {
+    "1": "Smart Finance Decisions Made Simple"
+  },
+  "KeyTakeways": {
+    "Title": "Key Takeaways"
+  },
+  "Strategies": {
+    "Title": "Portfolio Allocation Strategies",
+    "sectionTitle": {
+      "Income": "Income",
+      "Balanced": "Balanced",
+      "Growth": "Growth"
+    },
+    "sectionText": {
+      "Income": "An income-oriented investor seeks current income with minimal risk to principal,\nis comfortable with only modest long-term growth of principal, and has a short- to\nmid-range investment time horizon. Generating current income is a primary goal.",
+      "Balanced": "A balanced-oriented investor seeks to reduce potential volatility by including\nincome-generating investments in his or her portfolio and accepting moderate growth of\nprincipal, is willing to tolerate short-term price fluctuations, and has a mid- to long-range\ninvestment time horizon",
+      "Growth": "A growth-oriented investor seeks to maximize the long-term potential for growth\nof principal, is willing to tolerate potentially large short-term price fluctuations, and has a\nlong-term investment time horizon. Generating current income is not a primary goal."
+    }
+  },
+  "circle-container": {
+    "Income": "Fixed Income",
+    "Equity": "Equity",
+    "circle-container-right": {
+      "p1": "Average annual return",
+      "p2": "Best year (1982)",
+      "p3": "Wrost year (1969)",
+      "p4": "Year with a loss"
+    }
+  },
+  "box": {
+    "box-heading": "Smart Financial Decisions Made Simple",
+    "box-text": "Get the Forbes Advisor Weekly Newsletter for money advice, news, and product reviews from a name you trust.",
+    "input": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email"
+    },
+    "subscribe": "Subscribe"
+  },
+  "potentialEarnings": {
+    "title": "Potential Earnings",
+    "newDeposit": "New Deposit",
+    "frequency": "Frequency",
+    "apply": "Apply",
+    "reset": "Reset",
+    "important": "IMPORTANT: This shows the growth of your money in a span 30years(yoy).Also by default It shows the value for bi-weekly and 20$"
+  },
+  "brokers": {
+    "heading": "Brokers",
+    "text": "Featured Investing Product of ",
+    "partner": "Partner",
+    "fees": "Fees",
+    "minimum": "Minimum",
+    "highlight": "Highlight",
+    "next": "Next"
+  },
+  "lineChart": {
+    "title": "Risk Explained",
+    "chartHead": {
+      "lessRisk": "Less Risk",
+      "moreRisk": "More Risk"
+    },
+    "fixedIncome": "100% Fixed Income",
+    "equity": "100% Equity"
+  },
+
+  "Card": {
+    "creditCardText": "Best Credit Cards",
+    "personalLoanText": "Best Personal Loans",
+    "businessLoanText": "Best Business Loans"
+  },
+
+  "market": {
+    "strong": "Strong Market",
+    "average": "Average Market",
+    "weak": "Weak Market"
+  },
+  "deposits": "Deposits"
+}

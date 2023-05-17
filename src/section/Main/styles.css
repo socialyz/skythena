@@ -1,0 +1,152 @@
+.main {
+    /* margin: 50px; */
+}
+
+.main>h1 {
+    font-size: 1.5rem;
+}
+
+.main-app {
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    height: 100%;
+}
+
+.loader-menu {
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.app-tool {
+    display: flex;
+    flex-direction: column;
+    background-color: #F6F8FB;
+    padding: 30px 50px;
+    height: fit-content;
+    /* width: 20%; */
+    font-size: medium;
+    margin-right: 10px;
+}
+
+.app-tool>label {
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+
+}
+
+.principal-input {
+    /* margin-top: 5px; */
+
+    padding: 0px 5px;
+    border: 2px solid #EEEEEE;
+    background-color: white;
+    border-radius: 5px;
+    outline-color: #318CE7;
+    font-size: medium;
+}
+
+.principal-input>input {
+    margin-left: 5px;
+    padding: 20px 0px;
+    /* border: 2px solid #EEEEEE; */
+    width: 80%;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    outline-color: #318CE7;
+    font-size: medium;
+}
+
+
+.principal-input:hover {
+    border: 2px solid #318CE7 !important;
+    color: #318CE7;
+
+}
+
+.principal-input-field:hover {
+    color: #318CE7;
+}
+
+.app-tool>label>input:focus {
+    color: #318CE7;
+}
+
+.apply-button {
+    margin-top: 30px;
+    padding: 20px 15px;
+    background-color: #ced0d4;
+    color: #676975;
+    border: 1px solid #F8F8F8;
+    border-radius: 5px;
+    border-radius: 5px;
+    font-size: medium;
+    cursor: pointer;
+}
+
+
+.show-apply-button {
+    margin-top: 30px;
+    padding: 25px 15px;
+    background-color: #318CE7;
+    color: white;
+    border: 1px solid #F8F8F8;
+    border-radius: 5px;
+    border-radius: 5px;
+    font-size: medium;
+    cursor: pointer;
+}
+
+.reset-button {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #F8F8F8;
+    color: #318CE7;
+    border: 1px solid #F8F8F8;
+    border-radius: 5px;
+    font-size: medium;
+    cursor: pointer;
+}
+
+.imp-text {
+    font-size: 0.8rem;
+}
+
+@media screen and (max-width: 768px) {
+    .main {
+        margin: 0px;
+    }
+
+    .main-app {
+        flex-direction: column-reverse;
+        height: 100% !important;
+        margin: 0;
+    }
+
+    .app-tool {
+        margin: auto;
+        width: 90%;
+        height: 100%;
+        box-sizing: border-box;
+    }
+
+    .principal-input {
+        display: flex;
+        margin-top: 0;
+        display: flex;
+        align-items: center;
+    }
+
+    .principal-input>input {
+        width: fit-content;
+        width: 100%;
+    }
+
+    .imp-text {
+        font-size: 10px;
+    }
+}

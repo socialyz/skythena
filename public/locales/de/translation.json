@@ -1,0 +1,78 @@
+{
+  "Language": {
+    "1": "Intelligente Finanzentscheidungen einfach gemacht"
+  },
+  "KeyTakeways": {
+    "Title": "Haupterkenntnisse"
+  },
+  "Strategies": {
+    "Title": "Portfolio-Allokationsstrategien",
+    "sectionTitle": {
+      "Income": "Einkommen",
+      "Balanced": "Ausgewogen",
+      "Growth": "Wachstum"
+    },
+    "sectionText": {
+      "Income": "Ein einkommensorientierter Anleger strebt aktuelles Einkommen bei minimalem Risiko für das Kapital an,\nist zufrieden mit nur moderatem langfristigen Wachstum des Kapitals und hat eine kurz- bis\nmittelfristige Anlagezeitperspektive. Die Generierung von aktuellem Einkommen ist ein primäres Ziel.",
+      "Balanced": "Ein ausgewogen orientierter Anleger strebt an, das Potenzial für Volatilität durch die Aufnahme von\nEinkommensgenerierenden Investitionen in sein Portfolio zu reduzieren und ein moderates Wachstum des Kapitals zu akzeptieren, ist bereit, Kurzfristige Preisschwankungen zu tolerieren und hat eine mittel- bis langfristige\nAnlagezeitperspektive",
+      "Growth": "Ein wachstumsorientierter Anleger strebt an, das langfristige Potenzial für Wachstum des Kapitals zu maximieren, ist bereit, potenziell große Kurzfristige Preisschwankungen zu tolerieren und hat eine\nlangfristige Anlagezeitperspektive. Die Generierung von aktuellem Einkommen ist kein primäres Ziel."
+    }
+  },
+  "circle-container": {
+    "Income": "Festverzinsliche",
+    "Equity": "Eigenkapital",
+    "circle-container-right": {
+      "p1": "Durchschnittliche jährliche Rendite",
+      "p2": "Bestes Jahr (1982)",
+      "p3": "Schlechtestes Jahr (1969)",
+      "p4": "Jahr mit Verlust"
+    }
+  },
+  "box": {
+    "box-heading": "Intelligente Finanzentscheidungen einfach gemacht",
+    "box-text": "Erhalten Sie den wöchentlichen Newsletter von Forbes Advisor mit Finanzrat, Nachrichten und Produktbewertungen von einer Marke, der Sie vertrauen können.",
+    "input": {
+      "firstName": "Vorname",
+      "lastName": "Nachname",
+      "email": "E-Mail"
+    },
+    "subscribe": "Abonnieren"
+  },
+  "potentialEarnings": {
+    "title": "Potenzielle Einnahmen",
+    "newDeposit": "Neue Einzahlung",
+    "frequency": "Frequenz",
+    "apply": "Anwenden",
+    "reset": "Zurücksetzen",
+    "important": "WICHTIG: Dies zeigt das Wachstum Ihres Geldes über einen Zeitraum von 30 Jahren (YoY). Standardmäßig zeigt es auch den Wert für die zweiwöchentliche Zahlung und 20$."
+  },
+  "Card": {
+    "creditCardText": "Beste Kreditkarten",
+    "personalLoanText": "Beste persönliche Darlehen",
+    "businessLoanText": "Beste Geschäftskredite"
+  },
+  "brokers": {
+    "heading": "Makler",
+    "text": "Vorgestelltes Investitionsprodukt von ",
+    "partner": "Partner",
+    "fees": "Gebühren",
+    "minimum": "Minimum",
+    "highlight": "Highlight",
+    "next": "Nächster"
+  },
+  "lineChart": {
+    "title": "Risiko erklärt",
+    "chartHead": {
+      "lessRisk": "Weniger Risiko",
+      "moreRisk": "Mehr Risiko"
+    },
+    "fixedIncome": "100% Festverzinsliche Wertpapiere",
+    "equity": "100% Eigenkapital"
+  },
+  "market": {
+    "strong": "Starke Marktlage",
+    "average": "Durchschnittliche Marktlage",
+    "weak": "Schwache Marktlage"
+  },
+  "deposits": "Einzahlungen"
+}
